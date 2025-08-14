@@ -4,5 +4,6 @@
 
 <img alt="Static Badge" src="https://img.shields.io/badge/Status%20-%20EN%20DESARROLLO-GREEN">
 
+![GitHub Org's stars](https://img.shields.io/github/stars/Solsticio-2630/challenge-amigo-secreto_esp-main?style=social)
 
 
