@@ -6,7 +6,7 @@
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/Solsticio-2630/challenge-amigo-secreto_esp-main?style=social)
 
-##Índice
+## Índice
 
 * [Título e imagen de portada](#Título-e-imagen-de-portada)
 
